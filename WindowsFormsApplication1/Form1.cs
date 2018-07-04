@@ -20,7 +20,8 @@ namespace WindowsFormsApplication1
         private void button1_Click(object sender, EventArgs e)
         {
             int x = 1;
-            int y = 0; 
+            int y = 0;
+            int z = 2;
         }
     }
 }
