@@ -22,6 +22,9 @@ namespace WindowsFormsApplication1
             int x = 1;
             int y = 0;
             int z = 2;
+            int w = 3;
+
+            int az = 4
         }
     }
 }
